@@ -37,6 +37,7 @@ img {
     color: #4d5ae5;
     cursor: pointer;
     display: flex;
+    margin-right: 76px;
 }
 
 .header-menu-link {
