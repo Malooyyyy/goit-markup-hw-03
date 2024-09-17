@@ -163,6 +163,8 @@ address {
 .site-section-three {
     background-color: #F4F4FD;
     text-transform: capitalize;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .team-title {
@@ -173,6 +175,7 @@ address {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .team-item {
