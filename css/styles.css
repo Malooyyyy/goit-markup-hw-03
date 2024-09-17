@@ -63,6 +63,11 @@ nav {
     gap: 40px;
 }
 
+.header-contact-list {
+    display: flex;
+    gap: 40px;
+}
+
 .header-menu-link:hover {
     color: #404bbf;
 }
