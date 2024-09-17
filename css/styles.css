@@ -60,12 +60,12 @@ nav {
 .header-menu-list {
     display: flex;
     margin: 0 auto;
-    gap: 40px;
+    margin-right: 0;
 }
 
 .header-contact-list {
     display: flex;
-    gap: 40px;
+    margin-right: 40px;
 }
 
 .header-menu-link:hover {
