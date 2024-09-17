@@ -49,10 +49,12 @@ img {
     color: #2e2f42;
     font-style: normal;
     display: flex;
+    margin: 0 auto;
 }
 
 .header-menu-list {
     display: flex;
+    margin: 0 auto;
 }
 
 .header-menu-link:hover {
@@ -304,6 +306,7 @@ address {
     justify-content: center;
     align-items: center;
     width: 1158px;
+    margin: 0 auto;
 }
 
 .container {
