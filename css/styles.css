@@ -50,6 +50,10 @@ img {
     font-style: normal;
 }
 
+.header-menu-list {
+    display: flex;
+}
+
 .header-menu-link:hover {
     color: #404bbf;
 }
