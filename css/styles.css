@@ -166,8 +166,6 @@ address {
     color: #2e2f42;
     margin-bottom: 8px;
     display: flex;
-    gap: 24px;
-    width: calc((100% - 72px) / 4);
 }
 
 .content-list-title {
@@ -178,6 +176,8 @@ address {
     letter-spacing: 0.02em;
     color: #434455;
     display: flex;
+    width: calc((100% - 72px) / 4);
+    gap: 24px;
 }
 
 .site-section-three {
