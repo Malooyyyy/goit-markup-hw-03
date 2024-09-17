@@ -349,6 +349,7 @@ address {
 
 .list-item {
     width: calc((100% - 72px) / 4);
+    display: flex;
 }
 
 .list-item-last {
