@@ -36,6 +36,8 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
     cursor: pointer;
+    border-bottom: 1px solid #e7e9fc;
+    display: flex;
 }
 
 .header-menu-link {
@@ -301,14 +303,10 @@ address {
 
 .container {
     margin-bottom: 16px;
-    border-bottom: 1px solid #e7e9fc;
     width: 1158px;
     display: inline-block;
     margin: 0 auto;
     padding: 0 15px;
-    border-radius: 0px 0px 4px 4px;
-    padding-top: 32px;
-    padding-bottom: 32px;
 }
 
 .container_too {
