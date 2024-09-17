@@ -255,10 +255,13 @@ address {
 
 .container {
     margin-bottom: 16px;
-    display: inline-block;
     border-bottom: 1px solid #e7e9fc;
     display: flex;
     width: 1158px;
+}
+
+.container-too {
+    display: inline-block;
 }
 
 .portfolio-div {
