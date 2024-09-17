@@ -249,3 +249,14 @@ address {
     align-items: center;
     border-bottom: 1px solid #e7e9fc
 }
+
+.container {
+    margin-bottom: 16px;
+    display: inline-block;
+}
+
+.portfolio-div {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    margin-bottom: 72px;
+}
