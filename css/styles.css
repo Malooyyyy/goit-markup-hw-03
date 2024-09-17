@@ -84,6 +84,8 @@ nav {
     letter-spacing: 0.02em;
     color: #434455;
     font-style: normal;
+    gap: 40px;
+    display: flex;
 }
 
 .header-address:hover {
