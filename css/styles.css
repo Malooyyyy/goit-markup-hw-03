@@ -48,6 +48,7 @@ img {
     letter-spacing: 0.02em;
     color: #2e2f42;
     font-style: normal;
+    display: flex;
 }
 
 .header-menu-list {
