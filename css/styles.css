@@ -263,9 +263,17 @@ address {
 .container {
     margin-bottom: 16px;
     border-bottom: 1px solid #e7e9fc;
-    display: flex;
     width: 1158px;
     display: inline-block;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.container-header-div {
+    display: flex;
+    border-bottom: 1px solid #e7e9fc;
+    margin: 0 auto;
+    padding: ;
 }
 
 .portfolio-div {
