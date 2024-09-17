@@ -308,6 +308,14 @@ address {
     padding: 0 15px;
 }
 
+.container_too {
+    display: flex;
+    gap: 24px;
+    border-radius: 0px 0px 4px 4px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
 .container-header-div {
     display: flex;
     margin: 0 auto;
