@@ -184,7 +184,9 @@ address {
 }
 
 .portfolio-section {
-    text-transform: capitalize
+    text-transform: capitalize;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .portfolio-title {
@@ -201,6 +203,10 @@ address {
 .main-content-list {
     line-height: 1.11;
     text-transform: capitalize;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+    
 }
 
 .portfolio-app {
