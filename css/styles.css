@@ -36,7 +36,6 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
     cursor: pointer;
-    border-bottom: 1px solid #e7e9fc;
     display: flex;
 }
 
@@ -307,6 +306,7 @@ address {
     display: inline-block;
     margin: 0 auto;
     padding: 0 15px;
+    border-bottom: 1px solid #e7e9fc;
 }
 
 .container_too {
