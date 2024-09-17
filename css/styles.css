@@ -259,6 +259,13 @@ address {
     display: flex;
     width: 1158px;
     display: inline-block;
+    padding: 188px 0;
+    max-width: 496px;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
 }
 
 .portfolio-div {
