@@ -346,3 +346,7 @@ address {
     padding-bottom: 120px;
     margin-bottom: 72px;
 }
+
+.list-item {
+    flex-basis: calc((100% - 72px) / 4);
+}
