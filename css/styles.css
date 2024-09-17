@@ -126,6 +126,11 @@ address {
     overflow: hidden;
 }
 
+.visually-hidden-section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 .content-title {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -206,7 +211,7 @@ address {
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    
+
 }
 
 .portfolio-app {
