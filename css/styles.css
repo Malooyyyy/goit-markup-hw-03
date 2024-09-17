@@ -103,6 +103,11 @@ address {
     letter-spacing: 0.04em;
     line-height: 1.5;
     font-size: 16px;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
 }
 
 .button:hover {
