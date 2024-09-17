@@ -349,6 +349,10 @@ address {
 
 .list-item {
     width: calc((100% - 72px) / 4);
-    gap: 24px;
+    margin-right: 24px;
     display: flex;
+}
+
+.list-item-last {
+    margin-right: 0;
 }
