@@ -24,6 +24,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
+    margin-right: 156px;
 }
 
 .header-logo {
@@ -240,4 +241,11 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+}
+
+.header-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #e7e9fc
 }
