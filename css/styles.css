@@ -166,6 +166,8 @@ address {
     color: #2e2f42;
     margin-bottom: 8px;
     display: flex;
+    gap: 24px;
+    width: calc((100% - 72px) / 4);
 }
 
 .content-list-title {
