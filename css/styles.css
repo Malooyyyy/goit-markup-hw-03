@@ -232,6 +232,8 @@ address {
     text-transform: uppercase;
     color: #f4f4fd;
     color: #4d5ae5;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer-studio {
