@@ -91,6 +91,12 @@ address {
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
+    max-width: 496px;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
 }
 
 .button {
@@ -266,13 +272,4 @@ address {
     padding-top: 120px;
     padding-bottom: 120px;
     margin-bottom: 72px;
-}
-
-.container-too {
-    max-width: 496px;
-    display: block;
-    min-width: 169px;
-    height: 56px;
-    border: none;
-    border-radius: 4px;
 }
