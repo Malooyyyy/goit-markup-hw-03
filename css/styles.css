@@ -266,3 +266,13 @@ address {
     padding-bottom: 120px;
     margin-bottom: 72px;
 }
+
+.main-title-div {
+    padding: 188px 0;
+    max-width: 496px;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+}
