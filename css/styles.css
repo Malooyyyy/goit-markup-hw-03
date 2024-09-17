@@ -176,13 +176,14 @@ address {
     text-align: center;
     color: #2e2f42;
     gap: 24px;
+    display: flex;
+    width: calc((100% - 72px) / 4);
 }
 
 .team-title {
     text-align: center;
     margin-bottom: 8px;
     margin-bottom: 72px;
-    display: flex;
 }
 
 .team-item {
