@@ -215,7 +215,6 @@ address {
 
 .team-title {
     text-align: center;
-    margin-bottom: 8px;
     margin-bottom: 72px;
 }
 
@@ -386,4 +385,9 @@ address {
 
 .main-content-list:first-child {
     width: calc((100% - 48px) / 6);
+}
+
+.team-ul {
+    display: flex;
+    gap: 24px;
 }
