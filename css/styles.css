@@ -26,6 +26,10 @@ address {
     border-bottom: 1px solid #e7e9fc;
 }
 
+.header-menu {
+    display: flex;
+}
+
 .web-studio {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
