@@ -23,14 +23,12 @@ address {
 .nav {
     display: flex;
     align-items: center;
+    width: 1158px;
 }
 
 .header-menu {
     border-bottom: 1px solid #e7e9fc;
-    display: flex;
-    padding-top: 24px;
-    padding-bottom: 24px;
-    width: 1158px;
+    display: flex;  
 }
 
 .web-studio {
@@ -336,7 +334,7 @@ address {
     margin-bottom: 16px;
     display: flex;
     margin: 0 auto;
-    padding: 24px 0;
+    padding: 0 15px;
     flex-basis: calc((100% - 72px) / 4);
 }
 
