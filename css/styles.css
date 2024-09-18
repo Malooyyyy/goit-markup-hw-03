@@ -390,5 +390,8 @@ address {
 .team-ul {
     display: flex;
     gap: 24px;
+}
+
+.team-item_list:first-child {
     border-radius: 0px 0px 4px 4px;
 }
