@@ -296,6 +296,7 @@ address {
     background-color: #2e2f42;
     padding-top: 100px;
     padding-bottom: 100px;
+    display: inline-block;
 }
 
 .web-studio-too {
@@ -334,7 +335,7 @@ address {
 
 .container {
     margin-bottom: 16px;
-    display: inline-block;
+    display: flex;
     margin: 0 auto;
     padding: 0 15px;
     flex-basis: calc((100% - 72px) / 4);
