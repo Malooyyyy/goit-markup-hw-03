@@ -16,7 +16,7 @@ img {
     display: block;
 }
 
-nav {
+.nav {
     display: flex;
     align-items: center;
 }
@@ -362,4 +362,5 @@ address {
 .menu-bio {
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
