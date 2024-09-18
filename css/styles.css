@@ -152,7 +152,7 @@ address {
     border: 0;
 }
 
-.visually-hidden-section {
+.bio-of-company {
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -355,4 +355,5 @@ address {
 .list-item-last {
     margin-right: 24;
     width: calc((100% - 72px) / 4);
+    display: flex;
 }
