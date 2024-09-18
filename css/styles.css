@@ -336,6 +336,7 @@ address {
     margin: 0 auto;
     padding: 0 15px;
     flex-basis: calc((100% - 72px) / 4);
+    max-width: 1158px;
 }
 
 .container_too {
