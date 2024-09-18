@@ -32,7 +32,7 @@ address {
 
 .header-menu {
     border-bottom: 1px solid #e7e9fc;
-    display: flex;  
+    display: flex;
 }
 
 .web-studio {
@@ -334,21 +334,11 @@ address {
 
 .container {
     margin-bottom: 16px;
-    display: flex;
+    display: inline-block;
     margin: 0 auto;
     padding: 0 15px;
     flex-basis: calc((100% - 72px) / 4);
     max-width: 1158px;
-}
-
-.container_too {
-    display: flex;
-    gap: 24px;
-}
-
-.container-header-div {
-    display: flex;
-    margin: 0 auto;
 }
 
 .portfolio-div {
