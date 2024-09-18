@@ -272,6 +272,7 @@ address {
     border-radius: 0px 0px 4px 4px;
     display: flex;
     gap: 24px;
+    width: calc((100% - 48px) / 3);
 
 }
 
@@ -398,4 +399,8 @@ address {
     border: 1px solid #e7e9fc;
     border-top: none;
 
+}
+
+.bio-list-items {
+    width: calc((100% - 72px) / 4);
 }
