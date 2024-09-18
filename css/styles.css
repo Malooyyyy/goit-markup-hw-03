@@ -329,6 +329,7 @@ address {
     margin: 0 auto;
     padding: 0 15px;
     border-bottom: 1px solid #e7e9fc;
+    flex-basis: calc((100% - 72px) / 4);
 }
 
 .container_too {
@@ -348,7 +349,7 @@ address {
 }
 
 list-item:first-child {
-    width: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px) / 4);
 }
 
 .list-item-ul {
