@@ -377,7 +377,7 @@ address {
 }
 
 .main-content-list:first-child {
-    width: calc((100% - 48px) / 6);
+    width: calc((100% - 48px) / 3);
 }
 
 .team-ul {
