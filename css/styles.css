@@ -30,6 +30,7 @@ address {
     display: flex;
     padding-top: 24px;
     padding-bottom: 24px;
+    width: 1158px;
 }
 
 .web-studio {
@@ -335,10 +336,8 @@ address {
     margin-bottom: 16px;
     display: flex;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 24px 0;
     flex-basis: calc((100% - 72px) / 4);
-    width: 1158px;
-    display: inline-block;
 }
 
 .container_too {
