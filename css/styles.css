@@ -385,5 +385,5 @@ address {
 }
 
 .main-content-list:first-child {
-    width: calc((100% - 48px) / 3);
+    width: calc((100% - 48px) / 6);
 }
