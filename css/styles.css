@@ -338,6 +338,7 @@ address {
     padding: 0 15px;
     flex-basis: calc((100% - 72px) / 4);
     width: 1158px;
+    display: inline-block;
 }
 
 .container_too {
