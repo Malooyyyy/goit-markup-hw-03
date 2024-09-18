@@ -347,7 +347,7 @@ address {
     margin-bottom: 72px;
 }
 
-.list-item:first-child {
+list-item:first-child {
     width: calc((100% - 72px) / 4);
 }
 
