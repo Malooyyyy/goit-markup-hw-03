@@ -347,6 +347,10 @@ address {
     margin-bottom: 72px;
 }
 
+.list-item:first-child {
+    width: calc((100% - 72px) / 4);
+}
+
 .list-item-ul {
     gap: 24px;
     width: calc((100% - 72px) / 4);
