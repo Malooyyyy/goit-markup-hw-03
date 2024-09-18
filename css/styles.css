@@ -385,14 +385,10 @@ address {
 
 .main-content-list:first-child {
     width: calc((100% - 48px) / 6);
-    border-radius: 0px 0px 4px 4px;
 }
 
 .team-ul {
     display: flex;
     gap: 24px;
-}
-
-.team-ul:first-child {
-    width: calc((100% - 48px) / 3);
+    border-radius: 0px 0px 4px 4px;
 }
