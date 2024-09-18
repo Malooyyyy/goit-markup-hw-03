@@ -53,7 +53,6 @@ address {
     cursor: pointer;
     display: flex;
     margin-right: 76px;
-    padding: 24px 0;
 }
 
 .header-menu-link {
@@ -362,6 +361,7 @@ address {
 .address-bio {
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
 
 .menu-bio {
