@@ -393,6 +393,6 @@ address {
     gap: 24px;
 }
 
-.list-item-ul:first-child {
+.team-ul:first-child {
     width: calc((100% - 48px) / 3);
 }
