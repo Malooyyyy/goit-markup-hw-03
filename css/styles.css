@@ -386,7 +386,3 @@ address {
 .team-item_list:first-child {
     border-radius: 0px 0px 4px 4px;
 }
-
-.bio-list-items:first-child {
-    width: calc((100% - 72px) / 4);
-}
