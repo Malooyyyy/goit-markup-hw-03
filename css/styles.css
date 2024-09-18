@@ -339,6 +339,10 @@ address {
     max-width: 1158px;
 }
 
+container {
+    display: inline-block;
+}
+
 .container_too {
     display: flex;
     gap: 24px;
