@@ -339,10 +339,6 @@ address {
     max-width: 1158px;
 }
 
-container {
-    display: inline-block;
-}
-
 .container_too {
     display: flex;
     gap: 24px;
@@ -374,6 +370,6 @@ container {
     gap: 40px;
 }
 
-.list-item:first-child {
+.li .list-item:first-child {
     width: calc((100% - 72px) / 4);
 }
