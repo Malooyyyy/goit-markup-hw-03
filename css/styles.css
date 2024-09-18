@@ -16,10 +16,13 @@ img {
     display: block;
 }
 
+address {
+    font-style: normal;
+}
+
 .nav {
     display: flex;
     align-items: center;
-    padding: 24px 0;
 }
 
 .web-studio {
@@ -95,10 +98,6 @@ img {
 
 .header-address:focus {
     color: #404bbf;
-}
-
-address {
-    font-style: normal;
 }
 
 .title {
@@ -362,5 +361,5 @@ address {
 .menu-bio {
     display: flex;
     gap: 40px;
-
+    padding: 24px 0;
 }
