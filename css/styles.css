@@ -352,7 +352,12 @@ address {
     display: flex;
 }
 
-.list-item-last {
+.list-item-start:first-child {
+    width: calc((100% - 72px) / 4);
+    display: flex;
+}
+
+.list-item-last:last-child {
     margin-right: 24;
     width: calc((100% - 72px) / 4);
     display: flex;
