@@ -356,6 +356,12 @@ address {
     margin-bottom: 72px;
 }
 
+.container-header {
+    display: flex;
+    width: 1158px;
+    padding: 24px 0;
+}
+
 .list-item-ul {
     gap: 24px;
     display: flex;
