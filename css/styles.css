@@ -216,7 +216,6 @@ address {
 .team-title {
     text-align: center;
     margin-bottom: 72px;
-    margin-bottom: 8px;
 }
 
 .team-item {
@@ -231,6 +230,7 @@ address {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .team-job {
