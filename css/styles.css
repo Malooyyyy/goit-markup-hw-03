@@ -353,6 +353,5 @@ list-item:first-child {
 
 .list-item-ul {
     gap: 24px;
-    width: calc((100% - 72px) / 4);
     display: flex;
 }
