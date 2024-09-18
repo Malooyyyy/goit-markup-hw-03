@@ -347,18 +347,8 @@ address {
     margin-bottom: 72px;
 }
 
-.list-item {
-    width: calc((100% - 72px) / 4);
-    display: flex;
-}
-
-.list-item-start:first-child {
-    width: calc((100% - 72px) / 4);
-    display: flex;
-}
-
-.list-item-last:last-child {
-    margin-right: 24;
+.list-item-ul {
+    gap: 24px;
     width: calc((100% - 72px) / 4);
     display: flex;
 }
